@@ -3,8 +3,8 @@
 ## Mini Aula de Unity 3D - Desenvolvimento do seu primeiro jogo
 
 ## Instrutores:
- * André Robert Molin [Perfil GitHub](http://github.com/FXXDEV)
- * Douglas Prado dos Santos [Perfil GitHub](http://github.com/dodopsantos)
+ * André Robert Molin |[Perfil GitHub](http://github.com/FXXDEV)
+ * Douglas Prado dos Santos |[Perfil GitHub](http://github.com/dodopsantos)
  
  
 # Primeiros Passos
